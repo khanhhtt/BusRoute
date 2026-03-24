@@ -5,15 +5,15 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0, 0]
+        "coordinates": [11.7667, 55.9667]
       },
       "properties": {
         "name": "clear_cache",
         "color": "#FFFFFF00",
         "opacity": 0,
-        "stroke-opacity": 0,
-        "stroke-width": 0
+        "stroke-opacity": 0
       }
     }
   ]
 }
+
