@@ -1,0 +1,32 @@
+{
+"type": "FeatureCollection",
+"name": "bus_routes_203_Sunday",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "LineDesignation": "203", "Weekday": 7.0 }, "geometry": { "type": "Point", "coordinates": [ 12.076226774087001, 55.679344567302003 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "203", "Weekday": 7.0 }, "geometry": { "type": "Point", "coordinates": [ 12.081388556519, 55.678733405109 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "203", "Weekday": 7.0 }, "geometry": { "type": "Point", "coordinates": [ 12.087492556160999, 55.677488888726998 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "203", "Weekday": 7.0 }, "geometry": { "type": "Point", "coordinates": [ 12.086072573199999, 55.674968835221001 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "203", "Weekday": 7.0 }, "geometry": { "type": "Point", "coordinates": [ 12.085654652656, 55.673571617884001 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "203", "Weekday": 7.0 }, "geometry": { "type": "Point", "coordinates": [ 12.091159320637001, 55.668482977502997 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "203", "Weekday": 7.0 }, "geometry": { "type": "Point", "coordinates": [ 12.089025647867, 55.659514973625001 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "203", "Weekday": 7.0 }, "geometry": { "type": "Point", "coordinates": [ 12.086692559829, 55.654523839150002 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "203", "Weekday": 7.0 }, "geometry": { "type": "Point", "coordinates": [ 12.080263415817001, 55.649120644122 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "203", "Weekday": 7.0 }, "geometry": { "type": "Point", "coordinates": [ 12.077567171721, 55.645965740279998 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "203", "Weekday": 7.0 }, "geometry": { "type": "Point", "coordinates": [ 12.071811293503, 55.640612506570001 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "203", "Weekday": 7.0 }, "geometry": { "type": "Point", "coordinates": [ 12.083747671434001, 55.637890701648999 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "203", "Weekday": 7.0 }, "geometry": { "type": "Point", "coordinates": [ 12.083747671434001, 55.637890701648999 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "203", "Weekday": 7.0 }, "geometry": { "type": "Point", "coordinates": [ 12.071859045997, 55.640754168485998 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "203", "Weekday": 7.0 }, "geometry": { "type": "Point", "coordinates": [ 12.078243301339, 55.646807175154002 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "203", "Weekday": 7.0 }, "geometry": { "type": "Point", "coordinates": [ 12.079924165965, 55.648789185021997 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "203", "Weekday": 7.0 }, "geometry": { "type": "Point", "coordinates": [ 12.084964744463001, 55.650668952978002 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "203", "Weekday": 7.0 }, "geometry": { "type": "Point", "coordinates": [ 12.086809143748001, 55.654658685656003 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "203", "Weekday": 7.0 }, "geometry": { "type": "Point", "coordinates": [ 12.088295097342, 55.657991652798003 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "203", "Weekday": 7.0 }, "geometry": { "type": "Point", "coordinates": [ 12.090269141493, 55.663663413521 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "203", "Weekday": 7.0 }, "geometry": { "type": "Point", "coordinates": [ 12.091577995493999, 55.669263591812999 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "203", "Weekday": 7.0 }, "geometry": { "type": "Point", "coordinates": [ 12.084799742495999, 55.673731391600001 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "203", "Weekday": 7.0 }, "geometry": { "type": "Point", "coordinates": [ 12.083937116353001, 55.676345157938997 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "203", "Weekday": 7.0 }, "geometry": { "type": "Point", "coordinates": [ 12.080322656247001, 55.678827873269 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "203", "Weekday": 7.0 }, "geometry": { "type": "Point", "coordinates": [ 12.076226774087001, 55.679344567302003 ] } }
+]
+}

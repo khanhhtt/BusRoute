@@ -1,0 +1,30 @@
+{
+"type": "FeatureCollection",
+"name": "bus_routes_15E_Hverdag",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "LineDesignation": "15E", "Weekday": 2.0 }, "geometry": { "type": "Point", "coordinates": [ 12.573408354814999, 55.684514718487002 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "15E", "Weekday": 2.0 }, "geometry": { "type": "Point", "coordinates": [ 12.565606337927001, 55.694035389775998 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "15E", "Weekday": 2.0 }, "geometry": { "type": "Point", "coordinates": [ 12.561681570081999, 55.697089406095998 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "15E", "Weekday": 2.0 }, "geometry": { "type": "Point", "coordinates": [ 12.561984483010001, 55.699769317018998 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "15E", "Weekday": 2.0 }, "geometry": { "type": "Point", "coordinates": [ 12.562903067373, 55.706097723046 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "15E", "Weekday": 2.0 }, "geometry": { "type": "Point", "coordinates": [ 12.56112248086, 55.709732296459997 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "15E", "Weekday": 2.0 }, "geometry": { "type": "Point", "coordinates": [ 12.558792965672, 55.715523239508997 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "15E", "Weekday": 2.0 }, "geometry": { "type": "Point", "coordinates": [ 12.548068277294, 55.730226677089 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "15E", "Weekday": 2.0 }, "geometry": { "type": "Point", "coordinates": [ 12.523275142185, 55.752909803290002 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "15E", "Weekday": 2.0 }, "geometry": { "type": "Point", "coordinates": [ 12.523913138481999, 55.767813088884999 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "15E", "Weekday": 2.0 }, "geometry": { "type": "Point", "coordinates": [ 12.529670548946999, 55.788434638177002 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "15E", "Weekday": 2.0 }, "geometry": { "type": "Point", "coordinates": [ 12.528277479015999, 55.786664546833997 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "15E", "Weekday": 2.0 }, "geometry": { "type": "Point", "coordinates": [ 12.522655579544001, 55.767525363746998 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "15E", "Weekday": 2.0 }, "geometry": { "type": "Point", "coordinates": [ 12.523233340057001, 55.752176434451002 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "15E", "Weekday": 2.0 }, "geometry": { "type": "Point", "coordinates": [ 12.544655735364, 55.732930678514997 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "15E", "Weekday": 2.0 }, "geometry": { "type": "Point", "coordinates": [ 12.558131703565, 55.714974580510003 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "15E", "Weekday": 2.0 }, "geometry": { "type": "Point", "coordinates": [ 12.561390216589, 55.709319592324 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "15E", "Weekday": 2.0 }, "geometry": { "type": "Point", "coordinates": [ 12.562787686635, 55.705616060489 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "15E", "Weekday": 2.0 }, "geometry": { "type": "Point", "coordinates": [ 12.561985085666, 55.700157187419002 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "15E", "Weekday": 2.0 }, "geometry": { "type": "Point", "coordinates": [ 12.562408358867, 55.695881726619 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "15E", "Weekday": 2.0 }, "geometry": { "type": "Point", "coordinates": [ 12.567163821398999, 55.693199404216998 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "15E", "Weekday": 2.0 }, "geometry": { "type": "Point", "coordinates": [ 12.578089932876001, 55.687595295163 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "15E", "Weekday": 2.0 }, "geometry": { "type": "Point", "coordinates": [ 12.572623366326001, 55.684055902598999 ] } }
+]
+}

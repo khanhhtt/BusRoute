@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "bus_routes_703_Hverdag",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "LineDesignation": "703", "Weekday": 2.0 }, "geometry": { "type": "Point", "coordinates": [ 11.876966843268001, 54.766447276935999 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "703", "Weekday": 2.0 }, "geometry": { "type": "Point", "coordinates": [ 11.896093921308999, 54.759256987861001 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "703", "Weekday": 2.0 }, "geometry": { "type": "Point", "coordinates": [ 11.897658495493999, 54.760738135708998 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "703", "Weekday": 2.0 }, "geometry": { "type": "Point", "coordinates": [ 11.897658495493999, 54.760738135708998 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "703", "Weekday": 2.0 }, "geometry": { "type": "Point", "coordinates": [ 11.896093921308999, 54.759256987861001 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "703", "Weekday": 2.0 }, "geometry": { "type": "Point", "coordinates": [ 11.876602300137, 54.767935794156998 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "703", "Weekday": 2.0 }, "geometry": { "type": "Point", "coordinates": [ 11.876484214223, 54.766278758444997 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "703", "Weekday": 2.0 }, "geometry": { "type": "Point", "coordinates": [ 11.876966843268001, 54.766447276935999 ] } }
+]
+}

@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"name": "bus_routes_27_Saturday",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "LineDesignation": "27", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.594309005883, 55.701026260863998 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "27", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.595030614486999, 55.695463365270001 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "27", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.598475734595, 55.695205428952001 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "27", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.599184842746, 55.695083442055001 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "27", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.597867429371, 55.695232331785 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "27", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.593616257721999, 55.694997025444998 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "27", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.587359876614, 55.692069191891001 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "27", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.586987555271, 55.692064256541002 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "27", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.586987555271, 55.692064256541002 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "27", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.595030614486999, 55.695463365270001 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "27", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.598475734595, 55.695205428952001 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "27", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.599184842746, 55.695083442055001 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "27", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.597867429371, 55.695232331785 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "27", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.594091000462999, 55.695690233099 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "27", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.594806867020001, 55.698552978987998 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "27", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.594309005883, 55.701026260863998 ] } }
+]
+}

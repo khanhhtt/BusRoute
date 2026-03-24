@@ -1,0 +1,30 @@
+{
+"type": "FeatureCollection",
+"name": "bus_routes_72_Saturday",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "LineDesignation": "72", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.530845041379999, 55.678693135144997 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "72", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.528421738731, 55.678984029656 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "72", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.522428428870001, 55.679495815819003 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "72", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.515979899705, 55.679008454273998 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "72", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.512092333910999, 55.678943355496997 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "72", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.507591172373001, 55.678759013258997 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "72", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.503397446179999, 55.678682608763999 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "72", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.497460789708001, 55.678458308735998 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "72", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.494698654027999, 55.678375753482001 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "72", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.494769084433999, 55.679047818333999 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "72", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.498602440716001, 55.677490553055001 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "72", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.499198359451, 55.675062130569003 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "72", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.499925546885001, 55.674096393417997 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "72", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.498368601176001, 55.672963747495999 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "72", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.496101465042999, 55.672379204930003 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "72", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.500920357175, 55.671495747153003 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "72", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.507198668958999, 55.672174160139001 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "72", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.510159426927, 55.672169292158003 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "72", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.518910089262, 55.671916026307002 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "72", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.52376069968, 55.671491523709001 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "72", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.531358209698, 55.671631328292001 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "72", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.532516756113001, 55.675578018819998 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "72", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.530845041379999, 55.678693135144997 ] } }
+]
+}
