@@ -8,10 +8,12 @@
         "coordinates": [0, 0]
       },
       "properties": {
-        "name": "invisible_clear",
-        "color": "#FFFFFF00" 
+        "name": "clear_cache",
+        "color": "#FFFFFF00",
+        "opacity": 0,
+        "stroke-opacity": 0,
+        "stroke-width": 0
       }
     }
   ]
 }
-
