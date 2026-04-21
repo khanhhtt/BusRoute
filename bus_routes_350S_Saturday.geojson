@@ -35,7 +35,7 @@
 { "type": "Feature", "properties": { "LineDesignation": "350S", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.549277178905999, 55.693993144624002 ] } },
 { "type": "Feature", "properties": { "LineDesignation": "350S", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.537541000442999, 55.701107939267999 ] } },
 { "type": "Feature", "properties": { "LineDesignation": "350S", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.520454320038001, 55.706205735805 ] } },
-{ "type": "Feature", "properties": { "LineDesignation": "350S", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.516436396781, 55.706698168719001 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "350S", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.515001206088, 55.706675348326002 ] } },
 { "type": "Feature", "properties": { "LineDesignation": "350S", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.498319804048, 55.704595941935999 ] } },
 { "type": "Feature", "properties": { "LineDesignation": "350S", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.486270702288, 55.707383835774003 ] } },
 { "type": "Feature", "properties": { "LineDesignation": "350S", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.47618281413, 55.710922107492003 ] } },

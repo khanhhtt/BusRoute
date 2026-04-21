@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.862997, 55.247067]
+      },
+      "properties": {
+        "name": "clear_cache",
+        "color": "#FFFFFF00",
+        "opacity": 0,
+        "stroke-opacity": 0
+      }
+    }
+  ]
+}
+

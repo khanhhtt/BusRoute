@@ -4,7 +4,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "LineDesignation": "220", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.088420372346, 55.637743403541002 ] } },
-{ "type": "Feature", "properties": { "LineDesignation": "220", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.099792867621, 55.641131837800003 ] } },
+{ "type": "Feature", "properties": { "LineDesignation": "220", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.100715348923, 55.641231070823999 ] } },
 { "type": "Feature", "properties": { "LineDesignation": "220", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.104813759920001, 55.643332103829003 ] } },
 { "type": "Feature", "properties": { "LineDesignation": "220", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.103509593982, 55.647838765926998 ] } },
 { "type": "Feature", "properties": { "LineDesignation": "220", "Weekday": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 12.106248982312, 55.648376146056002 ] } },
